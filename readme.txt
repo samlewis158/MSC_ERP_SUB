@@ -26,3 +26,18 @@ The project uses available smart meter datasets from **UK Power Networks**:
   - scikit-learn  
   - statsmodels  
   - matplotlib, seaborn  
+
+Project Workflow 
+
+- Two open datasets have been utilised with the LV dataset for validation onyl
+1) The initial EDA explored the Substation dataset ensuring it is reflective of real-world
+  expected electrcity consumption data
+
+2) Clustering was performed on the data using K-means; results produced were not ideal
+  however have been included to show the method
+
+3) The simulation was completed using a S-Learner and simple elasticity method to compare
+  different reformed tariff scenarios and show their effect on electricity consumption
+  - KPIS included total reduction perctange, peak reduction and load factor change
+
+  
