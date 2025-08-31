@@ -40,4 +40,12 @@ Project Workflow
   different reformed tariff scenarios and show their effect on electricity consumption
   - KPIS included total reduction perctange, peak reduction and load factor change
 
-  
+Key Results
+
+Average elasticity of demand was estimated to be close to zero, highlighting limited responsiveness to pricing signals.
+
+S-learner models provided more granular insights but also suggested only modest demand shifting under dynamic tariffs.
+
+Aggressive reforms created higher peak reductions, but often at the expense of customer cost neutrality.
+
+The exploratory k-means clustering did not yield useful consumer groupings, but demonstrated attempts to uncover heterogeneity.
